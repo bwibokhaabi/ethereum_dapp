@@ -1,0 +1,20 @@
+{
+  "name": "dapp_eth",
+  "version": "1.0.0",
+  "description": "An Ethereum based dApp that has both the smart contract tested and deployed in a testnet and a front end that will allow monitoring of the status.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwibokhaabi/ethereum_dapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwibokhaabi/ethereum_dapp/issues"
+  },
+  "homepage": "https://github.com/bwibokhaabi/ethereum_dapp#readme"
+}
